@@ -1,5 +1,5 @@
 # 💫About Me :
-[![Social banner for D0](https://github.com/doshinxlsx/doshinxlsx/raw/master/assets/header-banner--optimized.svg)](https://d0.quest)
+[![Social banner for D0](https://github.com/doshinxlsx/doshinxlsx/raw/master/assets/profile.gif)](https://d0.quest)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey, a 19 years old software engineer and cybersecurity addict from Hungary.
@@ -21,11 +21,5 @@ I'm Jhey, a 19 years old software engineer and cybersecurity addict from Hungary
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/d0theinspector) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
