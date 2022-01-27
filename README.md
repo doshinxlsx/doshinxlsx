@@ -1,5 +1,4 @@
 # 💫About Me :
-[![Social banner for D0](https://github.com/doshinxlsx/doshinxlsx/assets/profile.svg)](https://d0.quest)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey, a 19 years old software engineer and cybersecurity addict from Hungary.
