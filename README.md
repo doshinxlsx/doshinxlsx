@@ -1,7 +1,7 @@
 # 💫About Me :
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Dominik, a 19 years old software engineer and cybersecurity addict from Hungary.
+I'm Dominik, a 20 years old software engineer and cybersecurity addict from Hungary.
 </p>
 <p align='center'>For enquiries, reach out @ o.dominik2107@gmail.com or over on <a href="https://www.linkedin.com/in/dominikorincsai/">LinkedIn</a>.</p>
 
