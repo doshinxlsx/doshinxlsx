@@ -1,7 +1,7 @@
 # 💫About Me :
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Dominik, a 20 years old software engineer and cybersecurity addict from Hungary.
+I'm Dominik, a 21 years old Frontend Developer from Hungary.
 </p>
 <p align='center'>For enquiries, reach out @ o.dominik2107@gmail.com or over on <a href="https://www.linkedin.com/in/dominikorincsai/">LinkedIn</a>.</p>
 
@@ -16,10 +16,10 @@ I'm Dominik, a 20 years old software engineer and cybersecurity addict from Hung
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.doshin._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominikorincsai) 
 
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/d0theinspector) 
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=doshinxlsx&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=doshinxlsx&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=doshinxlsx&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📛Badges
+[![An image of @doshinxlsx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/doshinxlsx)](https://holopin.io/@doshinxlsx)
